@@ -9,10 +9,10 @@ export function Home() {
     <div className={styles.banner}>
       <Section>
         <h2>
-          What is this?
+          Welcome to Baby Solana Flip!
         </h2>
         <p style={{ wordWrap: 'break-word' }}>
-          An open source, decentralized casino built on Gamba. Copy this platform with your own branding and start earning fees on every bet.
+          An open source, decentralized casino built on Gamba. All Royalties generated from bets go toward Baby Solana Liquidity burns.
         </p>
         <div style={{ display: 'flex', gap: '10px' }}>
           <Button
